@@ -1,7 +1,7 @@
 body{
     background-color: black;
     margin: 0;
-    padding-top: 40px;
+    padding-top: 50px;
    justify-content: center;
     display: flex;
 }
@@ -9,7 +9,7 @@ body{
 .mydiv{
     background-color: #1f1f1f;
     width: 270px;
-    height: 500px;
+    height: 530px;
     border-radius: 20px;
     padding: 20px;
     text-align: center;
@@ -34,13 +34,14 @@ body{
     color: #94b815;
     margin-top: 5px;
     font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .mydiv p{
     font-size: 12.2px;
     color: white;
     font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
+    margin-bottom: 30px;
 }
 
 /**----------------------MY SOCIAL LINKS ---------------------**/
@@ -53,7 +54,7 @@ body{
     width: 250px;
     border-radius: 5px;
     padding: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 .sociallinks a{
     text-decoration: none;
